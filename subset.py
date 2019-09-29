@@ -33,8 +33,8 @@ def sub_set():
         possible_list.append(possible_string)
 
     #print the output
-    for item in possible_list:
-      print(item)
+  for item in possible_list:
+    print(item)
 
 #call the above function 
-sub_set() 
+sub_set()
